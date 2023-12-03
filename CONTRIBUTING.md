@@ -1,12 +1,12 @@
-# Contributing to Ivy Wallet
+# Contributing to Money Manager Pro
 
 ## 1. Fork the repo
 
-You can do that by cliking this badge: 👉 [![Fork Ivy Wallet](https://img.shields.io/github/forks/Ivy-Apps/ivy-wallet?logo=github&style=social)](https://github.com/Ivy-Apps/ivy-wallet/fork) 👈
+You can do that by cliking this badge: 👉 [![Fork Money Manager Pro](https://img.shields.io/github/forks/Ivy-Apps/ivy-wallet?logo=github&style=social)](https://github.com/Ivy-Apps/ivy-wallet/fork) 👈
 
 **[How To Fork Guide by GitHub](https://docs.github.com/en/get-started/quickstart/fork-a-repo)**
 
-**Important:** After you've cloned your Ivy Wallet fork make sure to initialize the project using [the initialization instructions in the README](./README.md#initialize-the-project).
+**Important:** After you've cloned your Money Manager Pro fork make sure to initialize the project using [the initialization instructions in the README](./README.md#initialize-the-project).
 
 ## 2. Pick an issue
 
@@ -14,7 +14,7 @@ What do you want to work on? [Choose an issue](https://github.com/Ivy-Apps/ivy-w
 
 ### Workflow:
 
-1. Browse **[Ivy Wallet Issues](https://github.com/Ivy-Apps/ivy-wallet/issues)**.
+1. Browse **[Money Manager Pro Issues](https://github.com/Ivy-Apps/ivy-wallet/issues)**.
 2. Choose an issue that you understand and like.
 3. Comment **`I'm on it`** on the issue to let other contributors know that you're working on it.
 
@@ -71,7 +71,7 @@ Make sure to read the **[Architecture Guidelines 🏗️](docs/Architecture.md)*
 So far, you should have pushed your work to your feature branch and have tested
 that it works on a real Android device.
 Then final step is to open a pull request to the `main` branch of the
-official [Ivy Wallet repo.](https://github.com/Ivy-Apps/ivy-wallet/pulls)
+official [Money Manager Pro repo.](https://github.com/Ivy-Apps/ivy-wallet/pulls)
 
 **[How To Submit a PR Guide by GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)**
 
@@ -79,7 +79,7 @@ official [Ivy Wallet repo.](https://github.com/Ivy-Apps/ivy-wallet/pulls)
 
 - Make sure that on the base repository's base the `main` branch is chosen as "base".
 - Pull requests to other branches will be rejected.
-- Ivy Wallet doesn't have QA so **you are the QA!** Please test your implementation carefully.
+- Money Manager Pro doesn't have QA so **you are the QA!** Please test your implementation carefully.
 
 ### Questions?
 

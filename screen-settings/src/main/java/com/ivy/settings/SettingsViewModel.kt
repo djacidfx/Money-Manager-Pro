@@ -243,7 +243,7 @@ class SettingsViewModel @Inject constructor(
 
     private fun exportToCSV(rootScreen: RootScreen) {
         ivyContext.createNewFile(
-            "Ivy Wallet (${
+            "Money Manager Pro (${
                 timeNowUTC().formatNicelyWithTime(noWeekDay = true)
             }).csv"
         ) { fileUri ->
@@ -262,7 +262,7 @@ class SettingsViewModel @Inject constructor(
 
     private fun exportToZip(rootScreen: RootScreen) {
         ivyContext.createNewFile(
-            "Ivy Wallet (${
+            "Money Manager Pro (${
                 timeNowUTC().formatNicelyWithTime(noWeekDay = true)
             }).zip"
         ) { fileUri ->

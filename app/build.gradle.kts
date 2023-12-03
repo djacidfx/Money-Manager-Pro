@@ -12,10 +12,10 @@ plugins {
 
 android {
     namespace = "com.ivy.wallet"
-    compileSdk = libs.versions.compile.sdk.get().toInt()
+    compileSdkVersion(libs.versions.compile.sdk.get().toInt())
 
     defaultConfig {
-        applicationId = "com.ivy.wallet"
+        applicationId = "work.mywild.wallet"
         minSdk = libs.versions.min.sdk.get().toInt()
         targetSdk = libs.versions.compile.sdk.get().toInt()
         versionName = libs.versions.version.name.get()
@@ -56,7 +56,7 @@ android {
 
             signingConfig = signingConfigs.getByName("release")
 
-            resValue("string", "app_name", "Ivy Wallet")
+            resValue("string", "app_name", "Money Manager Pro")
         }
 
         debug {
@@ -69,7 +69,7 @@ android {
             signingConfig = signingConfigs.getByName("debug")
 
             applicationIdSuffix = ".debug"
-            resValue("string", "app_name", "Ivy Wallet Debug")
+            resValue("string", "app_name", "Money Manager Pro")
         }
 
         create("demo") {
@@ -89,7 +89,7 @@ android {
             signingConfig = signingConfigs.getByName("debug")
 
             applicationIdSuffix = ".debug"
-            resValue("string", "app_name", "Ivy Wallet Demo")
+            resValue("string", "app_name", "Money Manager Pro")
         }
     }
 

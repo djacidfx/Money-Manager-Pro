@@ -5,18 +5,18 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Ivy-Apps/ivy-wallet/blob/main/CONTRIBUTING.md)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Ivy-Apps/ivy-wallet?style=social)](https://github.com/Ivy-Apps/ivy-wallet/stargazers)
-[![Fork Ivy Wallet](https://img.shields.io/github/forks/Ivy-Apps/ivy-wallet?logo=github&style=social)](https://github.com/Ivy-Apps/ivy-wallet/fork)
+[![Fork Money Manager Pro](https://img.shields.io/github/forks/Ivy-Apps/ivy-wallet?logo=github&style=social)](https://github.com/Ivy-Apps/ivy-wallet/fork)
 
-# [Ivy Wallet: money manager](https://play.google.com/store/apps/details?id=com.ivy.wallet)
+# [Money Manager Pro: money manager](https://play.google.com/store/apps/details?id=com.ivy.wallet)
 
 |          |             |                |       |
 | :---:    |    :----:   |          :---: | :---: |
 | ![1](https://user-images.githubusercontent.com/5564499/189540998-4d6cdcd3-ab4d-40f7-85d4-c82fe8a017d1.png) | ![2](https://user-images.githubusercontent.com/5564499/189541011-1ebbd8b6-50fe-432a-91e2-59206efe99ce.png) | ![3](https://user-images.githubusercontent.com/5564499/189541023-35e7f163-d639-4466-9a91-c56890d5a28e.png) | ![4](https://user-images.githubusercontent.com/5564499/189541027-d352314c-fd5c-43eb-82ad-4aba14c7b0fa.png)
 | ![5](https://user-images.githubusercontent.com/5564499/189541030-1a0d7948-33af-420b-b126-936d0211c93f.png) | ![6](https://user-images.githubusercontent.com/5564499/189541035-621c4511-5ec7-4d3f-b08e-925d8da95472.png) |![7](https://user-images.githubusercontent.com/5564499/189541127-7adf5bfa-0652-461c-80f1-076b7179eb6c.png) | ![8](https://user-images.githubusercontent.com/5564499/189541040-7cab633e-be4c-40b2-a2c6-890a15edf805.png)
 
-Ivy Wallet is a free and open-source **money manager android app**. It's written using **100% Kotlin and Jetpack Compose**. It's designed to help you track your personal finance with ease.
+Money Manager Pro is a free and open-source **money manager android app**. It's written using **100% Kotlin and Jetpack Compose**. It's designed to help you track your personal finance with ease.
 
-Imagine Ivy Wallet as a manual expense tracker that tries to replace the good old spreadsheet for managing your finance.
+Imagine Money Manager Pro as a manual expense tracker that tries to replace the good old spreadsheet for managing your finance.
 
 **Do you know? Ask yourself.**
 
@@ -28,7 +28,7 @@ Imagine Ivy Wallet as a manual expense tracker that tries to replace the good ol
 
 A money manager app can help you answer these questions.
 
-Ivy Wallet lacks features but its biggest advantage is its UI/UX, simplicity, and customization. This was recognized in the ["Top/Best Android App in 2021/2022 charts"](https://youtube.com/playlist?list=PLguJN0waG1-eSzKMuFMIULrR3MlqJ3cAE) by the YouTube tech community.
+Money Manager Pro lacks features but its biggest advantage is its UI/UX, simplicity, and customization. This was recognized in the ["Top/Best Android App in 2021/2022 charts"](https://youtube.com/playlist?list=PLguJN0waG1-eSzKMuFMIULrR3MlqJ3cAE) by the YouTube tech community.
 
 <a href='https://play.google.com/store/apps/details?id=com.ivy.wallet&utm_source=github&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="323" height="125"/></a>
 
@@ -66,9 +66,9 @@ Jour our Telegram community and drop a message in the "Development" topic.
 
 ## Learning Materials
 
-Ivy Wallet is a great place to code and learn. That's why we're also linking great learning materials (books, articles, videos), check them in **[docs/resources 📚](docs/resources/)**.
+Money Manager Pro is a great place to code and learn. That's why we're also linking great learning materials (books, articles, videos), check them in **[docs/resources 📚](docs/resources/)**.
 
-Make sure to also check our short **[Architecture Guidelines 🏗️](docs/Architecture.md)** to learn more about the Ivy Wallet's tech side.
+Make sure to also check our short **[Architecture Guidelines 🏗️](docs/Architecture.md)** to learn more about the Money Manager Pro's tech side.
 
 [![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Ivy-Apps/ivy-wallet/blob/main/CONTRIBUTING.md)
 
@@ -109,7 +109,7 @@ Make sure to also check our short **[Architecture Guidelines 🏗️](docs/Archi
 
 ## Contribute
 
-**Want to contribute?** See **[CONTRIBUTING.md](/CONTRIBUTING.md)** [![Fork Ivy Wallet](https://img.shields.io/github/forks/Ivy-Apps/ivy-wallet?logo=github&style=social)](https://github.com/Ivy-Apps/ivy-wallet/fork)
+**Want to contribute?** See **[CONTRIBUTING.md](/CONTRIBUTING.md)** [![Fork Money Manager Pro](https://img.shields.io/github/forks/Ivy-Apps/ivy-wallet?logo=github&style=social)](https://github.com/Ivy-Apps/ivy-wallet/fork)
 
 ### Contributors Wall:
 
@@ -121,11 +121,11 @@ Make sure to also check our short **[Architecture Guidelines 🏗️](docs/Archi
 
 _Note: It may take up to 24h for the [contrib.rocks](https://contrib.rocks/preview?repo=Ivy-Apps%2Fivy-wallet) plugin to update because it's refreshed once a day._ 
 
-**P.S.** You'll also be recognized in Ivy Wallet's "Contributors" screen that can be found in the android app. We salute you! 👏
+**P.S.** You'll also be recognized in Money Manager Pro's "Contributors" screen that can be found in the android app. We salute you! 👏
 
 ## Creative Contributors
 
-Folks that helped Ivy Wallet in a non-dev creative way that can't be captured in GitHub.
+Folks that helped Money Manager Pro in a non-dev creative way that can't be captured in GitHub.
 
 ### Creative Contributors Wall:
 
@@ -140,7 +140,7 @@ Folks that helped Ivy Wallet in a non-dev creative way that can't be captured in
 <div align="center">
     <img src="https://media.licdn.com/dms/image/D4D03AQGiFQMobe7CmA/profile-displayphoto-shrink_400_400/0/1690718245199?e=1698883200&v=beta&t=rMTp7gOVZKqWx3Dcj6vKGkjwKgKi5NShXEXMRtne8KU" width="100px;" alt="Stefan Ilijev - desinger"/><br>
     <strong>Stefan Ilijev</strong><br>
-    <small>Ivy Wallet's co-founder and designer. Created the <a href="https://www.figma.com/file/kSwIa07jcHEHZXo6rzx7dn/Design-System?node-id=0%3A1&mode=dev">Ivy Wallet design.</a></small>
+    <small>Money Manager Pro's co-founder and designer. Created the <a href="https://www.figma.com/file/kSwIa07jcHEHZXo6rzx7dn/Design-System?node-id=0%3A1&mode=dev">Money Manager Pro design.</a></small>
     <br/>
     <br/>
 </div>

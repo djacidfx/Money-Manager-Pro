@@ -42,7 +42,7 @@ Describe with a few bullets **what's new:**
 
 ## Does this PR closes any GitHub Issues?
 
-Check **[Ivy Wallet Issues](https://github.com/Ivy-Apps/ivy-wallet/issues)**.
+Check **[Money Manager Pro Issues](https://github.com/Ivy-Apps/ivy-wallet/issues)**.
 
 - Closes #ISSUE_NUMBER
 

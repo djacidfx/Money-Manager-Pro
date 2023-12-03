@@ -174,7 +174,7 @@ class CustomerJourneyCardsProvider @Inject constructor(
             condition = { trnCount, _, _ ->
                 trnCount >= 16
             },
-            description = "It looks like that you're enjoying Ivy Wallet! Feel free join our invite-only Ivy Telegram Community and make our app better :)",
+            description = "It looks like that you're enjoying Money Manager Pro! Feel free join our invite-only Ivy Telegram Community and make our app better :)",
             title = "Ivy Community",
             cta = "Join now",
             ctaIcon = R.drawable.ic_telegram_24dp,
@@ -222,7 +222,7 @@ class CustomerJourneyCardsProvider @Inject constructor(
             condition = { trnCount, _, _ ->
                 trnCount >= 28
             },
-            description = "It looks like that you're enjoying Ivy Wallet! " +
+            description = "It looks like that you're enjoying Money Manager Pro! " +
                     "If you haven't yet, feel free join our invite-only Ivy Telegram Community and make our app better :)",
             title = "Ivy Community",
             cta = "Join now",

@@ -175,7 +175,7 @@ fun BoxWithConstraintsScope.OnboardingSplashLogin(
                 },
             painter = painterResource(id = R.drawable.ivy_wallet_logo),
             contentScale = ContentScale.FillBounds,
-            contentDescription = "Ivy Wallet logo"
+            contentDescription = "Money Manager Pro logo"
         )
 
         Spacer(Modifier.height(marginTextTop))
@@ -185,7 +185,7 @@ fun BoxWithConstraintsScope.OnboardingSplashLogin(
                 ivyContext = ivyContext,
                 percentTransition = percentTransition
             ),
-            text = "Ivy Wallet",
+            text = "Money Manager Pro",
             style = UI.typo.h2.style(
                 color = UI.colors.pureInverse,
                 fontWeight = FontWeight.ExtraBold
